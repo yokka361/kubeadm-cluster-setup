@@ -4,7 +4,7 @@
 
 This repository is forked from the KodeKloud [Kubernetes Course repository](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) and used as a **personal hands-on lab** to experiment with building a **real multi-node Kubernetes cluster using kubeadm**. Instead of relying on managed platforms or single-node tools like Minikube, this project uses **Vagrant** to provision **multiple Ubuntu virtual machines** and form a full Kubernetes cluster from scratch.
 
-## Goals of this Lab
+## Goals
 
 -   Practice full **bare-metal style Kubernetes installation**
     
