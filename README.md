@@ -1,3 +1,5 @@
+## *This repo is forked from [Course Practice Repo](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) to practice kubeadm in course [Course](https://www.coursera.org/learn/kubernetes-for-absolute-beginners/home/welcome)*
+
 # Certified Kubernetes Administrator (CKA) Course
 
 These are notes from the [Certified Kubernetes Administrator Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) hosted on KodeKloud.
